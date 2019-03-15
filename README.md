@@ -1,5 +1,5 @@
 # BenchmarkVariant
-benchmark of the variant against Dynamic polymorhism
+Performance Benchmark Strategy vs Policy
 
 
 In this Project two different versions of the Strategy Pattern are tested and benchmarked in terms of speed.
